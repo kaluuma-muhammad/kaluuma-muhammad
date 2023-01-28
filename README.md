@@ -2,7 +2,7 @@
 
 ## Find me on
 
-- Twitter [https://twitter.com/KalsMuhammad]@KalsMuhammad
+- Twitter @KalsMuhammad
 - Linkedin [https://www.linkedin.com/in/kaluuma-muhammad/]
 
 ## Languages I do
