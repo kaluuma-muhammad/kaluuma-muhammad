@@ -2,8 +2,8 @@
 
 ## Find me on
 
-- Twitter @KalsMuhammad
-- Linkedin [https://www.linkedin.com/in/kaluuma-muhammad/]
+- Twitter [@KalsMuhammad](https://twitter.com/KalsMuhammad)
+- Linkedin [@kaluuma-muhammad](https://www.linkedin.com/in/kaluuma-muhammad/)
 
 ## Languages I do
 - Vue.js
