@@ -8,4 +8,4 @@
 ## Languages I do
 - Vue.js
 - Laravel
-- C/C++ (learning)
+- C/C++
