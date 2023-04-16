@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a self-taught fullstack developer who enjoys writting code and learning new coding skills.
+### Hi there 👋, I'm a self-taught backend and frontend developer who enjoys writting code and learning new coding skills.
 
 ## Find me on
 
