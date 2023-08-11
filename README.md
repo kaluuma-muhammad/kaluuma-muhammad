@@ -9,3 +9,4 @@
 - Vue.js
 - Laravel
 - C/C++
+- Flutter
