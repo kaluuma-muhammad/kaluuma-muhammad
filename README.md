@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a self-taught backend and frontend developer who enjoys writting code and learning new coding skills.
+### Hi there 👋, I am a passionate software engineer with a deep interest in artificial intelligence, machine learning, and building innovative software solutions. From developing intelligent applications to exploring cutting-edge AI frameworks, I thrive on solving complex problems through technology.
 
 ## Find me on
 
