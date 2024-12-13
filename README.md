@@ -6,6 +6,8 @@
 - Linkedin [@kaluuma-muhammad](https://www.linkedin.com/in/kaluuma-muhammad/)
 
 ## Languages I do
+- Python
+- GOLang
 - Vue.js
 - Laravel
 - C/C++
